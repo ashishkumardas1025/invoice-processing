@@ -1,0 +1,4 @@
+replicate
+Pillow
+python-dotenv
+streamlit
