@@ -7,7 +7,7 @@ import os
 #load_dotenv()
 
 
-replicate = replicate.Client(api_token='r8_PTWWsKQBPljNzaELboJq6uC6ttn08oo2CrreU')
+replicate = replicate.Client(api_token='r**********************eU')
 
 #  Use replicate deployed LLaVA instance for image to text
 prompt = ("""You are an insurance underwriter. As an insurance underwriter, your primary task is to assess vehicle damage based on uploaded images. Your goal is to determine the estimated percentage of damage and extract relevant details from the image, utilizing your knowledge and expertise in the field.
